@@ -14,9 +14,13 @@
     border-radius: 5px;
     background-color: #999999;
 }
-
+input {
+    padding: 5px;
+}
 button {
     cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 .label-header {
